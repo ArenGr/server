@@ -1,0 +1,169 @@
+{
+    "products": [
+        {
+            "name": "Red Bench",
+            "category": "people",
+            "price": 3.89,
+            "currency": "USD",
+            "image": {
+                "src": "https://images.pexels.com/photos/1977634/pexels-photo-1977634.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "alt": "Red Bench"
+            },
+            "bestseller": true,
+            "featured": false,
+            "details": null
+        },
+        {
+            "name": "Van Gogh",
+            "category": "artwork",
+            "price": 3.89,
+            "currency": "USD",
+            "image": {
+                "src": "https://images.pexels.com/photos/12740354/pexels-photo-12740354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "alt": "Van Gogh"
+            },
+            "bestseller": true,
+            "featured": false,
+            "details": null
+        },
+
+        {
+            "name": "Salvador Dali",
+            "category": "artwork",
+            "price": 3.89,
+            "currency": "USD",
+            "image": {
+                "src": "https://i.pinimg.com/originals/a1/42/88/a142885afd93d86d1df44eefef387c24.jpg",
+                "alt": "Salvador Dali"
+            },
+            "bestseller": true,
+            "featured": false,
+            "details": null
+        },
+        {
+        "name": "Baldi",
+        "category": "shoes",
+        "price": 15.89,
+        "currency": "USD",
+        "image": {
+            "src": "https://images.pexels.com/photos/1068638/pexels-photo-1068638.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "Yellow Shoes"
+        },
+        "bestseller": true,
+        "featured": false,
+        "details": null
+    },
+    {
+        "name": "Kabuki Set",
+        "category": "food",
+        "price": 15.89,
+        "currency": "USD",
+        "image": {
+            "src": "https://images.pexels.com/photos/246747/pexels-photo-246747.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "Sushi"
+
+      },
+        "bestseller": false,
+        "featured": false,
+        "details": null
+     },
+    {
+        "name": "Fruits",
+        "category": "food",
+        "price": 100,
+        "currency": "USD",
+        "image": {
+            "src": "https://images.pexels.com/photos/842571/pexels-photo-842571.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "Fruits"
+        },
+        "bestseller": false,
+        "featured": false,
+        "details": null
+    },
+    {
+        "name": "Angel",
+        "category": "statue",
+        "price": 500,
+        "currency": "USD",
+        "image": {
+            "src": "https://images.pexels.com/photos/4916706/pexels-photo-4916706.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "alt": "Fruits"
+        },
+        "details":{
+            "height": 1,
+            "length":30
+        }
+        },
+
+{
+    "name": "Channel",
+    "category": "bags",
+    "price": 13.89,
+    "currency": "USD",
+    "image": {
+    "src": "https://images.pexels.com/photos/1068638/pexels-photo-1068638.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "alt": "Channel Bag"
+},
+    "bestseller": true,
+    "featured": false,
+    "details": null
+},
+{
+    "name": "Pancake",
+    "category": "food",
+    "price": 8.89,
+    "currency": "USD",
+    "image": {
+    "src": "https://images.pexels.com/photos/5677015/pexels-photo-5677015.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "alt": "Pancake"
+
+},
+    "bestseller": true,
+    "featured": false,
+    "details": null
+},
+{
+    "name": "Arugula",
+    "category": "food",
+    "price": 9,
+    "currency": "USD",
+    "image": {
+    "src": "https://images.pexels.com/photos/5792329/pexels-photo-5792329.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "alt": "Pizza"
+},
+    "bestseller": false,
+    "featured": false,
+    "details": null
+},
+{
+    "name": "Glorious",
+    "category": "jewelry",
+    "price": 500,
+    "currency": "USD",
+    "image": {
+    "src": "https://images.pexels.com/photos/16794264/pexels-photo-16794264/free-photo-of-photographing-jewelry-so-hard-but-so-rewarding.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "alt": "Jewelry"
+},
+    "details":{
+       "type":"Ring with side stones"
+}
+
+},
+        {
+            "name": "Man",
+            "category": "people",
+            "price": 100,
+            "currency": "USD",
+            "image": {
+                "src": "https://images.pexels.com/photos/4025610/pexels-photo-4025610.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "alt": "man"
+            },
+            "bestseller": false,
+            "featured": false,
+            "details": null
+        }
+
+
+
+    ]
+}
